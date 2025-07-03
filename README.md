@@ -9,7 +9,7 @@ Triage app for emergency medical and TEMS teams. Quickly log patient categories 
 
 ## 📸 Screenshots
 
-![App Screenshot](h[ttps://via.placeholder.com/800x400?text=Screenshot+Here](https://github.com/jisosavi/TriageCounter/blob/main/screenshots/Triage%20Counter_Screenshot_01.jpg))
+![App Screenshot](https://github.com/jisosavi/TriageCounter/blob/main/screenshots/Triage%20Counter_Screenshot_01.jpg)
 
 ## 🚀 Getting Started
 
