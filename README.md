@@ -31,8 +31,8 @@ Copy
 - Build the project using the Connect IQ: Build command in VS Code
 - Test in the simulator using Connect IQ: Run in Simulator
 
-I did not get the IQ Store compatible .iq file with VS Code compiler. It only worked from the terminal.
-Also, make sure you don´t get any warnings, the Store validator is very picky.
+I could not create the IQ Store compatible .iq file with VS Code compiler. It only worked from the terminal.
+Also, make sure you don´t have any warnings, the Store validator is very picky.
 
 ### Installation
 
